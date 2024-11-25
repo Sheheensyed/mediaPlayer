@@ -1,0 +1,127 @@
+{
+  "videos": [
+    {
+      "caption": "Missoin impossible",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQZ6FZgU8P5vxILy-HfaENgZEofVNhXuDwYw&s",
+      "embedLink": "https://www.youtube.com/embed/NOhDyUmT9z0",
+      "id": 3
+    },
+    {
+      "caption": "Dictator",
+      "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuH5w9goJ8NU_5rMK4RJYqCdEZRl6l9iL528ZkicNFX5fV6w1aaupHvuSP_rdDl7ho0VyTGw",
+      "embedLink": "https://www.youtube.com/embed/e9BOekoBxIo",
+      "id": 4
+    },
+    {
+      "caption": "Fighter jet",
+      "imgurl": "F.jet",
+      "embedLink": "https://www.youtube.com/embed/LbNP0FUItjI",
+      "id": 6
+    },
+    {
+      "caption": "BATTLEFIELD",
+      "imgurl": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/homepage/common/bf-2042-section-bg-homepage-hero-keyart-xl.jpg.adapt.320w.jpg",
+      "embedLink": "https://www.youtube.com/embed/9ZMWM9a-v0A",
+      "id": 7
+    },
+    {
+      "caption": "A*",
+      "imgurl": "https://i.ytimg.com/vi/ftNd8hT9Bvg/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCeBBMXsfagZTzW-U_2X0U0YTC8qw",
+      "embedLink": "https://www.youtube.com/embed/CgW0HPHqFE8",
+      "id": 8
+    },
+    {
+      "caption": "Rocket guidance",
+      "imgurl": "https://i.ytimg.com/vi/VssBW-khGy8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDzvA_iQOe3vBSUQRZ7zKSk7ErxFw",
+      "embedLink": "https://www.youtube.com/embed/4xEx2EQIPD4",
+      "id": 9
+    },
+    {
+      "caption": "BLACK HORNET",
+      "imgurl": "https://www.geeky-gadgets.com/wp-content/uploads/2024/07/Black-Hornet-4-Nano-UAV.webp",
+      "embedLink": "https://www.youtube.com/embed/x19eT9O9WHU",
+      "id": 10
+    }
+  ],
+  "history": [
+    {
+      "Caption": "Dictator",
+      "url": "https://www.youtube.com/embed/e9BOekoBxIo",
+      "timeStamp": "19/11/2024, 15:40:30",
+      "id": 1
+    },
+    {
+      "Caption": "BATTLEFIELD",
+      "url": "https://www.youtube.com/embed/9ZMWM9a-v0A",
+      "timeStamp": "19/11/2024, 15:40:33",
+      "id": 2
+    },
+    {
+      "Caption": "Missoin impossible",
+      "url": "https://www.youtube.com/embed/NOhDyUmT9z0",
+      "timeStamp": "19/11/2024, 15:40:35",
+      "id": 3
+    },
+    {
+      "Caption": "BATTLEFIELD",
+      "url": "https://www.youtube.com/embed/9ZMWM9a-v0A",
+      "timeStamp": "20/11/2024, 17:29:47",
+      "id": 4
+    },
+    {
+      "Caption": "Rocket guidance",
+      "url": "https://www.youtube.com/embed/4xEx2EQIPD4",
+      "timeStamp": "21/11/2024, 15:38:47",
+      "id": 5
+    },
+    {
+      "Caption": "Rocket guidance",
+      "url": "https://www.youtube.com/embed/4xEx2EQIPD4",
+      "timeStamp": "21/11/2024, 16:16:14",
+      "id": 6
+    },
+    {
+      "Caption": "Rocket guidance",
+      "url": "https://www.youtube.com/embed/4xEx2EQIPD4",
+      "timeStamp": "21/11/2024, 16:16:15",
+      "id": 7
+    },
+    {
+      "Caption": "Fighter jet",
+      "url": "https://www.youtube.com/embed/LbNP0FUItjI",
+      "timeStamp": "21/11/2024, 17:03:58",
+      "id": 8
+    }
+  ],
+  "category": [
+    {
+      "Category": "english",
+      "allvideo": [
+        {
+          "caption": "Dictator",
+          "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuH5w9goJ8NU_5rMK4RJYqCdEZRl6l9iL528ZkicNFX5fV6w1aaupHvuSP_rdDl7ho0VyTGw",
+          "embedLink": "https://www.youtube.com/embed/e9BOekoBxIo",
+          "id": 4
+        },
+        {
+          "caption": "BATTLEFIELD",
+          "imgurl": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/homepage/common/bf-2042-section-bg-homepage-hero-keyart-xl.jpg.adapt.320w.jpg",
+          "embedLink": "https://www.youtube.com/embed/9ZMWM9a-v0A",
+          "id": 7
+        },
+        {
+          "caption": "Missoin impossible",
+          "imgurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQZ6FZgU8P5vxILy-HfaENgZEofVNhXuDwYw&s",
+          "embedLink": "https://www.youtube.com/embed/NOhDyUmT9z0",
+          "id": 3
+        }
+      ],
+      "id": 1
+    },
+    {
+      "Category": "samp",
+      "allvideo": [],
+      "id": 2
+    }
+  ]
+}
